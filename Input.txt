@@ -1,0 +1,44 @@
+3
+Peter the Anteater, 123 123 1234
+University of California, Irvine
+4
+C++: 4.0
+Java: 4.0
+Python: 3.7
+Algorithm: 3.3
+1
+Research on Dynamic Programming: 06/2020-09/2020
+2
+Search Engine Project: 03/2020-06/20202
+Electronic Mailing Service: 12/2019-03/2020
+1
+Dean's Choice Award: 12/2019
+
+Meryl Finley, 331 143 6845
+University of California, Los Angles
+6
+Python: 3.7
+Algorithm: 3.3
+C++: 3.0
+Java: 2.7
+Embedded Programming: 3.3
+Computer Architecture: 4.0
+1
+Research on Parallel Programming: 01/2021-09/2021
+1
+HTML5 Web Game Development: 02/2020-05/2020
+1
+Best Capstone Project Award: 05/2021
+
+Brandon Mark, 555 666 7777
+University of California, Riverside
+3
+Algorithm: 3.0
+Antenna Design: 3.3
+French Speaking: 4.0
+1
+Research on Machine Learning: 06/2020-09/2020
+0
+2
+Dean's Choice Award: 12/2018
+President's List: 06/2018

@@ -1,0 +1,18 @@
+Name:Meryl Finley
+Phone Number: 331 143 6845
+
+Academic: 
+University of California, Los Angles GPA: 3.33
+Python: 3.7, Algorithm: 3.3, C++: 3.0, Java: 2.7, Embedded Programming: 3.3, Computer Architecture: 4.0, 
+
+Researches:
+ 01/2021-09/2021
+Research on Parallel Programming
+
+Projects:
+ 02/2020-05/2020
+HTML5 Web Game Development
+
+Certificates:
+ 05/2021
+Best Capstone Project Award

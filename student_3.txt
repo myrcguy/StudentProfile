@@ -1,0 +1,18 @@
+Name:Brandon Mark
+Phone Number: 555 666 7777
+
+Academic: 
+University of California, Riverside GPA: 3.43
+Algorithm: 3.0, Antenna Design: 3.3, French Speaking: 4.0, 
+
+Researches:
+ 06/2020-09/2020
+Research on Machine Learning
+
+Projects:
+
+Certificates:
+ 12/2018
+Dean's Choice Award
+ 06/2018
+President's List

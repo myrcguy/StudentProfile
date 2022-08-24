@@ -1,0 +1,20 @@
+Name:Peter the Anteater
+Phone Number: 123 123 1234
+
+Academic: 
+University of California, Irvine GPA: 3.75
+C++: 4.0, Java: 4.0, Python: 3.7, Algorithm: 3.3, 
+
+Researches:
+ 06/2020-09/2020
+Research on Dynamic Programming
+
+Projects:
+ 03/2020-06/20202
+Search Engine Project
+ 12/2019-03/2020
+Electronic Mailing Service
+
+Certificates:
+ 12/2019
+Dean's Choice Award
